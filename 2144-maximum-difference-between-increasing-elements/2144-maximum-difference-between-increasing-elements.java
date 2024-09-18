@@ -1,18 +1,15 @@
 class Solution {
     public int maximumDifference(int[] nums) {
-        int m = -1;  // Initialize max difference as -1
-        // Iterate over the array from the first to the second-last element
-        for (int i = 0; i < nums.length - 1; i++) {
-            // Compare the current element with every subsequent element
-            for (int j = i + 1; j < nums.length; j++) {
-                // If a valid pair is found, calculate the difference
-                if (nums[j] > nums[i]) {
-                    int diff = nums[j] - nums[i];
-                    // Update the maximum difference
-                    m = Math.max(m, diff);
-                }
-            }
+       int max=-1;
+       int n=nums.length-1;
+       int lmin=nums[0];
+       for (int i=0;i<=n;i++){
+        int val=nums[i];
+        if (lmin<val){
+            max=Math.max(max,val-lmin);
         }
-        return m;
+        lmin=Math.min(lmin,val);
+       }
+    return max;
     }
 }
