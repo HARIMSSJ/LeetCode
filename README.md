@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HARIMSSJ/LeetCode/tree/master/0169-majority-element) |
+| [0782-jewels-and-stones](https://github.com/HARIMSSJ/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/HARIMSSJ/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/HARIMSSJ/LeetCode/tree/master/1635-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/HARIMSSJ/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
