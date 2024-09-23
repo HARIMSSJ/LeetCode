@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/HARIMSSJ/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/HARIMSSJ/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/HARIMSSJ/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2406-decode-the-message](https://github.com/HARIMSSJ/LeetCode/tree/master/2406-decode-the-message) |
