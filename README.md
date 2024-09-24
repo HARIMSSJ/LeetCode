@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/HARIMSSJ/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/HARIMSSJ/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/HARIMSSJ/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/HARIMSSJ/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HARIMSSJ/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
