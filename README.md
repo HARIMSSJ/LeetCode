@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HARIMSSJ/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/HARIMSSJ/LeetCode/tree/master/0645-set-mismatch) |
+| [0777-toeplitz-matrix](https://github.com/HARIMSSJ/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/HARIMSSJ/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/HARIMSSJ/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HARIMSSJ/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/HARIMSSJ/LeetCode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
