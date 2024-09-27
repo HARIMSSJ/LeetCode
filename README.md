@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/HARIMSSJ/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/HARIMSSJ/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/HARIMSSJ/LeetCode/tree/master/0205-isomorphic-strings) |
