@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HARIMSSJ/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/HARIMSSJ/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/HARIMSSJ/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/HARIMSSJ/LeetCode/tree/master/0645-set-mismatch) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HARIMSSJ/LeetCode/tree/master/0048-rotate-image) |
 | [1635-number-of-good-pairs](https://github.com/HARIMSSJ/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HARIMSSJ/LeetCode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/HARIMSSJ/LeetCode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
