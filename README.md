@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HARIMSSJ/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/HARIMSSJ/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/HARIMSSJ/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/HARIMSSJ/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/HARIMSSJ/LeetCode/tree/master/0645-set-mismatch) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/HARIMSSJ/LeetCode/tree/master/0055-jump-game) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/HARIMSSJ/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/HARIMSSJ/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/HARIMSSJ/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/HARIMSSJ/LeetCode/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
