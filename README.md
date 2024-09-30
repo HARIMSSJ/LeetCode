@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HARIMSSJ/LeetCode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/HARIMSSJ/LeetCode/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/HARIMSSJ/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/HARIMSSJ/LeetCode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/HARIMSSJ/LeetCode/tree/master/0777-toeplitz-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/HARIMSSJ/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/HARIMSSJ/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
