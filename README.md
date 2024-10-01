@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/HARIMSSJ/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HARIMSSJ/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/HARIMSSJ/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HARIMSSJ/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HARIMSSJ/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/HARIMSSJ/LeetCode/tree/master/0645-set-mismatch) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HARIMSSJ/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HARIMSSJ/LeetCode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HARIMSSJ/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
